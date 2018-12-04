@@ -56,7 +56,10 @@ namespace Forces
         }
 
 
-        double inversecos(double A);
+        double inversecos(double A)
+        {
+
+        }
 
 
 
